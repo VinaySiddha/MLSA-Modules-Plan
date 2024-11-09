@@ -22,7 +22,7 @@ Based on your year and class/group, please open the corresponding links below an
 
 #### 2nd Year - CAI Class
 - **CAI A**: [Complete CAI A Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=54d7dca7-f546-487a-aff6-d44d9a1d062a&wt.mc_id=studentamb_431274)
-- **CAI B**: [Complete CAI B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=54d7dca7-f546-487a-aff6-d44d9a1d062a&wt.mc_id=studentamb_431274)
+- **CAI B**: [Complete CAI B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=a57873b9-aa3b-483d-a76f-5f7b29accfec&wt.mc_id=studentamb_431203)
 
 ---
 

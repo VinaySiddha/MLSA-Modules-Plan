@@ -16,16 +16,16 @@ Based on your year and class/group, please open the corresponding links below an
 
 ### Year and Group Assignments
 
-#### 1nd Year - AIM Class
+#### 1st Year - AIM Class
 - **AIM A**: [Complete AIM A Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=c5900485-922b-403d-a92d-724b373c54d9&wt.mc_id=studentamb_430516)
-- **AIM B**: [Complete AIM B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=54d7dca7-f546-487a-aff6-d44d9a1d062a&wt.mc_id=studentamb_431274)
+- **AIM B**: [Complete AIM B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=a57873b9-aa3b-483d-a76f-5f7b29accfec&wt.mc_id=studentamb_431203)
 
-#### 1nd Year - CAI Class
-- **CAI A**: [Complete CAI A Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=a57873b9-aa3b-483d-a76f-5f7b29accfec&wt.mc_id=studentamb_431203)
-- **CAI B**: [Complete CAI B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=54d7dca7-f546-487a-aff6-d44d9a1d062a&wt.mc_id=studentamb_431274)
+#### 1st Year - CAI Class
+- **CAI A**: [Complete CAI A Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=54d7dca7-f546-487a-aff6-d44d9a1d062a&wt.mc_id=studentamb_431274)
+- **CAI B**: [Complete CAI B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=a57873b9-aa3b-483d-a76f-5f7b29accfec&wt.mc_id=studentamb_431203)
 
-#### 1nd Year - CSE DS Class
-- **CSE DS**: [Complete CAI B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=a57873b9-aa3b-483d-a76f-5f7b29accfec&wt.mc_id=studentamb_431203)
+#### 1st Year - CSE DS Class
+- **CSE DS**: [Complete CAI B Modules](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=54d7dca7-f546-487a-aff6-d44d9a1d062a&wt.mc_id=studentamb_431274)
 
 
 ## 📌 Instructions
